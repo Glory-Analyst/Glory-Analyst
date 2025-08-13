@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Glory-Analyst
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on data analytics projects on health information
+- 👋 Hi, I’m @Glory-Analyst, a digital health specialist. 
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently improving my skills in power BI, SQL and python
+- 💞️ I’m looking to collaborate on projects on health data.
 - 📫 How to reach me Email:ezinneglory26@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a medical laboratory scientist😁
